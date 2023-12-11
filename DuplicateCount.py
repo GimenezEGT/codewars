@@ -8,5 +8,4 @@ def duplicate_count(text):
             counter2 += 1
     return counter2
 
-
 print(duplicate_count("abcdeaB"))
